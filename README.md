@@ -1,17 +1,25 @@
 # windows10kms
 1. Copy the KMS Key that corresponds to your version of Windows 11 from the official Microsoft KMS Key web page. (for example for Windows 11 pro use the Windows 10 pro Key)
 2. Open powershell as administrator 
-3. type in: "slmgr /ipk WINDOWSKEY" (replace WINDOWSKEY with the key we copied before)
-4. Type in "slmgr /skms kms8.msguide.com"
-5. Type in "slmgr /ato"
+3. 
+4. type in: "slmgr /ipk WINDOWSKEY" (replace WINDOWSKEY with the key we copied before)
+5. 
+6. Type in "slmgr /skms kms8.msguide.com"
+7. 
+8. Type in "slmgr /ato"
+9. 
 
 If that didn't work:
 4. Type in "slmgr /skms kms.digiboy.ir"
-5. Type in "slmgr /ato"
+5. 
+6. Type in "slmgr /ato"
+7. 
 
 If that didn't work either:
 4. Type in "slmgr /skms kms.chinancce.com"
-5. Type in "slmgr /ato"
+5. 
+6. Type in "slmgr /ato"
+7. 
 
 If non of that worked make sure you have a stable internet connection
 
