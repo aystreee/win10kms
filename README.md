@@ -1,5 +1,7 @@
 # windows10kms
-1. Copy the KMS Key that corresponds to your version of Windows 11 from the official Microsoft KMS Key web page. (for example for Windows 11 pro use the Windows 10 pro Key)
+Get the Windows Key Corresponding to your version.
+
+
 2. Open powershell as administrator 
 3. 
 4. type in: "slmgr /ipk WINDOWSKEY" (replace WINDOWSKEY with the key we copied before)
