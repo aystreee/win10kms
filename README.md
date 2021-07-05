@@ -15,7 +15,7 @@ If that didn't work either:
 
 If non of that worked make sure you have a stable internet connection
 
-"this method can be used in some laptops this article just works on desktops"
+ "this method can be used in some laptops this article just works on desktops"
 
 
 Windows KMS keys:
