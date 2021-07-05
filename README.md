@@ -2,26 +2,28 @@
 Get the Windows Key Corresponding to your version.
 
 
-2. Open powershell as administrator 
-3. 
-4. type in: "slmgr /ipk WINDOWSKEY" (replace WINDOWSKEY with the key we copied before)
-5. 
-6. Type in "slmgr /skms kms8.msguide.com"
-7. 
-8. Type in "slmgr /ato"
-9. 
+. Right Click on the windows icon
+
+. Open powershell(admin)
+. 
+. type in: "slmgr /ipk WINDOWSKEY" (replace WINDOWSKEY with the key we copied before)
+. 
+. Type in "slmgr /skms kms8.msguide.com"
+ 
+. Type in "slmgr /ato"
+. 
 
 If that didn't work:
-4. Type in "slmgr /skms kms.digiboy.ir"
-5. 
-6. Type in "slmgr /ato"
-7. 
+. Type in "slmgr /skms kms.digiboy.ir"
+. 
+. Type in "slmgr /ato"
+. 
 
 If that didn't work either:
-4. Type in "slmgr /skms kms.chinancce.com"
-5. 
-6. Type in "slmgr /ato"
-7. 
+. Type in "slmgr /skms kms.chinancce.com"
+. 
+. Type in "slmgr /ato"
+. 
 
 If non of that worked make sure you have a stable internet connection
 
